@@ -1,0 +1,6 @@
+git checkout main
+Switched to branch 'main'
+
+git merge bug-fix-typo
+Merge made by the 'ort' strategy.
+ 1 file changed, 1 insertion(+), 1 deletion(-)
