@@ -1,0 +1,9 @@
+Command:
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls
+
+Output:
+"head": {
+  "repo": {
+    "full_name": "tejas0937/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
